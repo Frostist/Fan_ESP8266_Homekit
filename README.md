@@ -2,6 +2,8 @@
 
 A simple project that allows for a fan to be controlled by an ESP8266 unit.
 
+Go back to [Will's Homekit stuff](https://github.com/Frostist/Wills-Homekit-Stuff)
+
 # This is a work in progress, I am hoping to have it finished soon with pictures and videos to help!
 
 ## Notes
